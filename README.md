@@ -32,7 +32,7 @@ python airepl.py --token YOUR_API_TOKEN [--url URL] [--model MODEL] [--stream ST
 - `--token`: The OpenAI API Token (required)
 - `--model`: The model to use (default: gpt-3.5-turbo)
 - `--stream`: Stream the response (default: True)
-- `--temperature`: The temperature to use for the completions (default: 0.01)
+- `--temp`: The temperature to use for the completions (default: 0.01)
 
 ### Example:
 
