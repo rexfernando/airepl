@@ -22,5 +22,5 @@ This is a simple REPL (Read-Eval-Print Loop) client for interacting with the Ope
 Run the script with the required `--token` argument and optional `--url` and `--model` arguments:
 
 ```sh
-python openai_repl_client.py --token YOUR_API_KEY
+airepl.py [-h] [--url URL] --token TOKEN [--model MODEL]
 
