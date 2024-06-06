@@ -48,4 +48,3 @@ To exit the REPL, type `exit` or `quit` and press Enter.
 
 If an error occurs, the script will print the error message.
 
----
