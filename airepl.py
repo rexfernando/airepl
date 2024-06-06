@@ -24,7 +24,6 @@ def main():
             if prompt.lower() in ["exit", "quit"]:
                 break
 		
-            Stream = True;
             response = client.chat.completions.create(
                 model=args.model,
                 messages=[
