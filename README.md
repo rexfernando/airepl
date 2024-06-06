@@ -49,5 +49,3 @@ To exit the REPL, type `exit` or `quit` and press Enter.
 If an error occurs, the script will print the error message.
 
 ---
-
-Feel free to customize this README file further based on your preferences or any additional details you want to include.
